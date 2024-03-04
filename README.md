@@ -34,7 +34,7 @@ I am actively seeking Frontend Developer opportunities where I can apply my skil
 
 I'm always open to connecting with fellow developers and professionals. Feel free to reach out to me via my portfolio website, Twitter, or LinkedIn. Let's chat, collaborate, and create amazing web experiences together!
 
-<div style="display:flex; gap: 20px; align-items: center;">
+<div>
 <a href="https://www.linkedin.com/in/ali-hamas/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height="40" alt="linkedin logo"  />
   </a>
@@ -54,7 +54,7 @@ I'm always open to connecting with fellow developers and professionals. Feel fre
 
 ## GitHub Stats
 
-  <div style="display: flex; align-items: center; gap: 20px;margin-bottom: 10px">
+  <div>
 <img src="https://github-readme-stats.vercel.app/api?username=ali-hamas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-hamas&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
