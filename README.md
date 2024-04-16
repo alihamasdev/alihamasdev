@@ -33,21 +33,21 @@ I am actively seeking Frontend Developer opportunities where I can apply my skil
 I'm always open to connecting with fellow developers and professionals. Feel free to reach out to me via my portfolio website, Twitter, or LinkedIn. Let's chat, collaborate, and create amazing web experiences together!
 
 <div>
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin"  />
         <img width="12" />
-        [ali-hamas](https://www.linkedin.com/in/ali-hamas)
+        <a href="https://www.linkedin.com/in/ali-hamas" targer="_blank">ali-hamas</a>
+        <br /><img width="8" /><br />
+    <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter"  />
+        <img width="12" />
+        <a href="https://twitter.com/AliHamasGh" targer="_blank">AliHamasGh</a>
         <br />
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter"  />
+    <img src="https://img.icons8.com/?size=512&id=ngc6JsBomclm&format=png" height="32" alt="fiverr"  />
         <img width="12" />
-        [AliHamasGh](https://twitter.com/AliHamasGh)
+        <a href="https://fiverr.com/alihamasghurki" targer="_blank">alihamasghurki</a>
         <br />
-    <img src="https://img.icons8.com/?size=512&id=ngc6JsBomclm&format=png" height="42" alt="fiverr"  />
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="gmail"  />
         <img width="12" />
-        [alihamasghurki](https://fiverr.com/alihamasghurki)
-        <br />
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"  />
-        <img width="12" />
-        [alihamasghurki4@gmail.com](mailto:alihamasghurki4@gmail.com)
+        <a href="mailto:alihamasghurki4@gmail.com" targer="_blank">alihamasghurki4@gmail.com</a>
         <br />
 </div>
 
