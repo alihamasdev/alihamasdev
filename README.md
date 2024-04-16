@@ -36,7 +36,7 @@ I'm always open to connecting with fellow developers and professionals. Feel fre
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin"  />
         <img width="12" />
         <a href="https://www.linkedin.com/in/ali-hamas" targer="_blank">ali-hamas</a>
-        <br /><img width="8" /><br />
+        <br />
     <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter"  />
         <img width="12" />
         <a href="https://twitter.com/AliHamasGh" targer="_blank">AliHamasGh</a>
