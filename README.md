@@ -7,23 +7,21 @@ I'm a passionate Frontend Developer with 2 years of experience in HTML, CSS, and
 ## 🔧 Skills
 
 <div>
-    <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
- <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next.js logo"  />
+        <img width="12" />
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+        <img width="12" />
+    <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="next.js logo"  />
+        <img width="12" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+        <img width="12" />
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+        <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
+        <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+        <img width="12" />
+    <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
 
 ## 💼 Looking For
@@ -35,22 +33,23 @@ I am actively seeking Frontend Developer opportunities where I can apply my skil
 I'm always open to connecting with fellow developers and professionals. Feel free to reach out to me via my portfolio website, Twitter, or LinkedIn. Let's chat, collaborate, and create amazing web experiences together!
 
 <div>
-<a href="https://www.linkedin.com/in/ali-hamas/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/AliHamasGh" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/+923241460713" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://fiverr.com/alihamasghurki" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/807499?s=200&v=4" height="40" style="border-radius:50%;" alt="Fiverr logo"  />
-  </a>
-  <a href="mailto:alihamasghurki4@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" height="40" alt="Gmail logo"  />
-  </a>
-  </div>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"  />
+        <img width="12" />
+        [ali-hamas](https://www.linkedin.com/in/ali-hamas)
+        <br />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter"  />
+        <img width="12" />
+        [AliHamasGh](https://twitter.com/AliHamasGh)
+        <br />
+    <img src="https://img.icons8.com/?size=512&id=ngc6JsBomclm&format=png" height="42" alt="fiverr"  />
+        <img width="12" />
+        [alihamasghurki](https://fiverr.com/alihamasghurki)
+        <br />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"  />
+        <img width="12" />
+        [alihamasghurki4@gmail.com](mailto:alihamasghurki4@gmail.com)
+        <br />
+</div>
 
 ## GitHub Stats
 
