@@ -7,19 +7,29 @@ I'm a passionate self-taught Full-Stack developer, driven to create innovative s
 ## Skills
 
 <div>
-    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next.js logo"  />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+        <img width="12" />
+    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+        <img width="12" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
         <img width="12" />
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="next.js logo"  />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="next.js logo"  />
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="next.js logo"  />
+    <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="appwrite logo"  />
+        <img width="12" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+        <img width="12" />
+    <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
         <img width="12" />    
+    <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+        <img width="12" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="next.js logo"  />
+    <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
         <img width="12" />
 </div>
 
@@ -49,7 +59,8 @@ I'm always open to connecting with fellow developers and professionals. Feel fre
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=alihamasdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alihamasdev&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<!--      <img width="20" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alihamasdev&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
 </div>
 
 Thank you for visiting my GitHub profile! 😄
