@@ -7,29 +7,29 @@ I'm a passionate self-taught Full-Stack developer, driven to create innovative s
 ## Skills
 
 <div>
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node js"  />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" title="Express js" />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="Next js" />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="React js" />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="Mongo db" />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" title="Postgres" />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="appwrite logo"  />
+    <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="appwrite logo" title="Appwrite" />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+    <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" title="Firebase" />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+    <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" title="Supabase" />
         <img width="12" />    
-    <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+    <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" title="Redux Toolkit" />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" title="Tailwind css" />
         <img width="12" />
-    <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+    <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo" title="Material ui" />
         <img width="12" />
 </div>
 
@@ -43,15 +43,15 @@ I'm always open to connecting with fellow developers and professionals. Feel fre
 
 <div>
     <a href="https://www.linkedin.com/in/alihamasdev/" targer="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin"  />
+        <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin" title="Linkedin"  />
     </a>
     <img width="12" />
     <a href="https://twitter.com/alihamasdev" targer="_blank">
-        <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter"  />
+        <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter" title="Twitter"  />
     </a>
     <img width="12" />
     <a href="mailto:alihamasdev@gmail.com" targer="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="gmail"  />
+        <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="gmail" title="Gmail"  />
     </a>
 </div>
 
